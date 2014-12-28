@@ -39,7 +39,7 @@ Linux, OSX
   $ pip install tweepy
 
 ### Configurasi
-* git clone https://github.com/tuanpembual/pip.git
+* clone this repo
 * Clone db minimal.
 * Set db token [twitter apps](https://apps.twitter.com/)
 * Set keyword for crawling
